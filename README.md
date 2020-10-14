@@ -2,11 +2,11 @@
 
 Find my info at weihaox.com. Reach me through weihaox@outlook.com.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=dracula&hide=issues&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=default&hide=issues&count_private=true)
 
 <!--
 theme:dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
+check all theme at https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 **weihao/weihaox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
