@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Find my info at weihaox.com. Reach me through weihaox@outlook.com.
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=default&hide=issues&count_private=true)
 
 <!--
@@ -20,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 My main research interests are computer vision, computer graphics, and multimedia processing. I am especially interested in image generation and manipulation.
+
+- 🌱 My research prospect is to make everyone easily create, edit, share, and use multimedia content, making imagination reality.
+
+- 📫 Find my info at weihaox.com. Reach me through weihaox@outlook.com.
