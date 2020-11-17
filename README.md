@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 My main research interests are computer vision, computer graphics, and multimedia processing. I am especially interested in image generation and manipulation.
+- 🔭 My main research interests are computer vision, computer graphics, and multimedia processing. I am especially interested in controllable and interactive image synthesis. 
 
-- 🌱 My research prospect is to make everyone easily create, edit, share, and use multimedia content, making imagination reality.
+- ✨ I am currently working on generating 2D images or 3D shapes from multi-modal inputs such as vectors, labels, sketches, and textual descriptions. 
+
+- 🌱 My research prospect is to make everyone easily create, edit, share, and use multimedia content, making imagination reality. The ultimate vision of my research is to manifest the physical world through imagination.
 
 - 📫 Find my info at weihaox.com. Reach me through weihaox@outlook.com.
