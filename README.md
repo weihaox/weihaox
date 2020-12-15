@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌱 My research prospect is to make everyone easily create, edit, share, and use multimedia content, making imagination reality. The ultimate vision of my research is to manifest the physical world through imagination.
 -->
 
-- 🔭 My main research interests are computer vision, computer graphics, multimodal learning, and human–computer interaction. I am especially interested in controllable and interactive image synthesis. 
+- 🔭 My main research interests are computer vision, computer graphics, multimodal learning, and human–computer interaction. I am especially interested in controllable and interactive image synthesis. I am currently working on generating 2D images or 3D shapes from multi-modal inputs such as sketches, semantic labels, control vectors, and textual descriptions. 
 
-- ✨ I am currently working on generating 2D images or 3D shapes from multi-modal inputs such as sketches, semantic labels, control vectors, and textual descriptions. 
+- ✨ Recently, I’m learning the [Data Bias](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#hard-example) and [AI Fairness](https://github.com/weihaox/awesome-image-translation/blob/master/content/image-generation.md#fairness-of-deep-generative-models) in generation tasks.
 
 - 🌱 The ultimate vision of my research is to manifest the physical world through imagination.
 
