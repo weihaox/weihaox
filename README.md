@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - 🌱 The ultimate vision of my research is to manifest the physical world through imagination.
 
-- 📫 Find my info at weihaox.com. Reach me through weihaox@outlook.com.
+- 📫 Find my info at [xiaweihao.com](./cv_weihao.pdf). Reach me through weihaox@outlook.com.
