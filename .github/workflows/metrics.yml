@@ -42,7 +42,7 @@ jobs:
           use_prebuilt_image: master
           plugin_topics: yes
           plugin_topics_sort: stars
-          plugin_topics_mode: mastered
+          # plugin_topics_mode: mastered
           plugin_topics_limit: 15
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 2
