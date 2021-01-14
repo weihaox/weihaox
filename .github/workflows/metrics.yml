@@ -37,9 +37,12 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_skipped: lowlighter
           plugin_stargazers: yes
-          config_timezone: Europe/Paris
+          config_timezone: Europe/London
           config_order: languages, pagespeed, habits, stargazers, stars
           use_prebuilt_image: master
           plugin_topics: yes
           plugin_topics_sort: stars
+          plugin_topics_mode: mastered
           plugin_topics_limit: 15
+          plugin_stars: yes
+          plugin_stars_limit: 4
