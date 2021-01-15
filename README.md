@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=default&hide=issues&count_private=true)
-![metrics](https://github.com/weihaox/weihaox/blob/master/metrics.additional.svg)
+<!--![metrics](https://github.com/weihaox/weihaox/blob/master/metrics.additional.svg)-->
 
 - 🔭 My main research interests are computer vision, computer graphics, multimodal learning, and human–computer interaction. I am especially interested in controllable and interactive image synthesis. I am currently working on generating 2D images or 3D shapes from multi-modal inputs such as sketches, semantic labels, control vectors, and textual descriptions. 
 
