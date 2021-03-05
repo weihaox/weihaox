@@ -9,4 +9,4 @@
 
 - 🌱 I’m also concerned about the *Data [Bias](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#data-bias) and [Efficiency](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#data-efficiency)* and [*AI Robustness, Fairness, Privacy, and transparency*](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#fairness-accountability-privacy-transparency-and-ethics) in generation tasks.
 
-- 📫 Find my info at [xiaweihao.com](https://xiaweihao.com). Reach me through weihaox AT outlook.com.
+<!-- - 📫 Find my info at [xiaweihao.com](https://xiaweihao.com). Reach me through weihaox AT outlook.com. -->
