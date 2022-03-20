@@ -1,14 +1,40 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xiaweihao.com/)
+[![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=Egqp5AMAAAAJ)
+<br>
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweihaox%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/weihaox/count.svg" />
+</p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=default&hide=issues&count_private=true)
-<!--![metrics](https://github.com/weihaox/weihaox/blob/master/metrics.additional.svg)-->
 
-- 🔭 My main research interests are computer vision, computer graphic, and human–computer interaction. The ultimate vision of my research is to manifest the physical world through imagination. 
 
-- ✨ I am currently working on controllable, interpretable, and generalizable visual contents generation, especially generating 2D images, videos, or 3D shapes from multi-modal information (e.g., sketches, labels, or textual descriptions). 
+I am currently a raduate research student, working at University College London.
 
-- 🌱 I’m also concerned about the *Data [Bias](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#data-bias) and [Efficiency](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#data-efficiency)* and [*AI Robustness, Fairness, Privacy, and transparency*](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-robustness-efficiency-privacy.md#fairness-accountability-privacy-transparency-and-ethics) in generation tasks.
+My main research interests span the fields of **computer vision** and **computer graphic**. I am currently working on controllable, interpretable, and generalizable visual contents creation, especially generating 2D images, videos, or 3D shapes from multi-modal information (*e.g.*, sketches, labels, audio, or textual descriptions). The ultimate vision of my research is to create and manifest the world through imagination. 
 
-<!-- - 📫 Find my info at [xiaweihao.com](https://xiaweihao.com). Reach me through weihaox AT outlook.com. -->
+Feel free to reach out to me via Email for collaboration in such fields.
+
+[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://xiaweihao.com/)
+[![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=Egqp5AMAAAAJ)
+<br>
+
+_**[[Homepage](https://xiaweihao.com)] [[Google Scholar](https://scholar.google.com/citations?user=Egqp5AMAAAAJ&hl=zh-CN)]**_
+
+## 🌱 **My Repositories**
+
+### visual content creation
+- **[TediGAN](https://github.com/Vegetebird/MHFormer)** (CVPR 2021)
+- **[InterpGaze](https://github.com/Vegetebird/MHFormer)** (ACM MM 2020)
+
+### perception and understanding
+- **[RADN](https://github.com/Vegetebird/MHFormer)** (CVPRW 2021)
+- **[PoseDet](https://github.com/Vegetebird/MHFormer)** (FG 2021)
+
+### awesome list
+- **[gan inversion](https://github.com/weihaox/awesome-gan-inversion)**
+- **[neural rendering](https://github.com/weihaox/awesome-neural-rendering)**
+- **[image translation](https://github.com/weihaox/awesome-image-translation)**
+- **[clothed people](https://github.com/weihaox/awesome-clothed-human)**
