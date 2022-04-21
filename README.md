@@ -25,12 +25,12 @@ There are also some paper collections based on my personal interests:
 [clothed people](https://github.com/weihaox/awesome-clothed-human)
 ![](https://img.shields.io/github/stars/weihaox/awesome-clothed-human?style=social).
 
-| Topic           | Publication   |    Title         |
-| :-------------: |:-------------:| :-------------:  | 
-| GAN Inversion | [[ArXiV'22] | High-fidelity GAN Inversion with Padding Space](https://github.com/EzioBy/padinv) | 
-| GAN Inversion | [[TPAMI'22] | GAN Inversion: A Survey](https://github.com/weihaox/awesome-gan-inversion) | 
-| Image Quality Assessment | [[CVPRW'22] | Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ) | 
-| Image Quality Assessment | [[CVPRW'21] | Region-Adaptive Deformable Network for Image Quality Assessment](https://github.com/IIGROUP/RADN) | 
-| Text-to-image Generation | [[CVPR'21]  | Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN) | 
-| Image Quality Assessment | [[TCSVT'21] | Domain Fingerprints for No-reference Image Quality Assessment](https://doi.org/10.1109/TCSVT.2020.3002662)| 
-| Gaze Redirection | [[ACM MM'20] | InterpGaze: Controllable Continuous Gaze Redirection](https://github.com/IIGROUP/InterpGaze) | 
+| Topic         | Title         |
+| :-------------: |:-------------:| 
+| GAN Inversion | [[ArXiV'22] High-fidelity GAN Inversion with Padding Space](https://github.com/EzioBy/padinv) | 
+| GAN Inversion | [[ArXiV'21] GAN Inversion: A Survey](https://github.com/weihaox/awesome-gan-inversion) | 
+| Image Quality Assessment | [[CVPRW'22] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ) | 
+| Text-to-image Generation | [[CVPR'21] Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN) | 
+| Image Quality Assessment | [[CVPRW'21] Region-Adaptive Deformable Network for Image Quality Assessment](https://github.com/IIGROUP/RADN) | 
+| Image Quality Assessment | [[TCSVT'21] Domain Fingerprints for No-reference Image Quality Assessment](https://doi.org/10.1109/TCSVT.2020.3002662)| 
+| Gaze Redirection | [[ACM MM'20] InterpGaze: Controllable Continuous Gaze Redirection](https://github.com/IIGROUP/InterpGaze) | 
