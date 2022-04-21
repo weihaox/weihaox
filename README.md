@@ -2,9 +2,9 @@
 
 <!-- _**[[Homepage](https://xiaweihao.com)] [[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=Egqp5AMAAAAJ)]**_ -->
 
-[![Email](https://img.shields.io/badge/-xiawh3@outlook.com-green?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:xiawh3@outlook.com)](xiawh3@outlook.com)
+[![](https://img.shields.io/badge/-xiawh3@outlook.com-green?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:xiawh3@outlook.com)](xiawh3@outlook.com)
 [![](https://img.shields.io/badge/website-orange?&logo=Google%20chrome&logoColor=white)](https://xiaweihao.com/)
-[![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=Egqp5AMAAAAJ)
+[![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=en&user=Egqp5AMAAAAJ)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=weihaox) 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=weihaox&show_icons=true&theme=default&hide=issues&count_private=true)
