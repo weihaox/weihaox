@@ -3,6 +3,11 @@
 [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=Egqp5AMAAAAJ)
 <br>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=weihaox) 
+[![Email](https://img.shields.io/badge/-xiawh3@outlook.com-green?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:xiawh3@outlook.com)](xiawh3@outlook.com)
+[![](https://img.shields.io/badge/website-orange?&logo=Google%20chrome&logoColor=white)](https://xiaweihao.com/)
+[![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=zh-CN&user=Egqp5AMAAAAJ)
+
 <!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/weihaox/count.svg" />
