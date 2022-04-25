@@ -17,13 +17,21 @@ My main research interests span the fields of **computer vision** and **computer
 
 There are also some paper collections based on my personal interests: 
 [`gan inversion`](https://github.com/weihaox/awesome-gan-inversion)
+![](https://badgen.net/github/stars/weihaox/awesome-gan-inversion?color=ff595e), 
+[`neural rendering`](https://github.com/weihaox/awesome-neural-rendering)
+![](https://badgen.net/github/stars/weihaox/awesome-neural-rendering?color=8ac926), 
+[`image translation`](https://github.com/weihaox/awesome-image-translation) 
+![](https://badgen.net/github/stars/weihaox/awesome-image-translation?color=f79256), 
+[`clothed people`](https://github.com/weihaox/awesome-clothed-human)
+![](https://badgen.net/github/stars/weihaox/awesome-clothed-human?color=0496ff).
+<!-- [`gan inversion`](https://github.com/weihaox/awesome-gan-inversion)
 ![](https://img.shields.io/github/stars/weihaox/awesome-gan-inversion?style=social),
 [`neural rendering`](https://github.com/weihaox/awesome-neural-rendering)
 ![](https://img.shields.io/github/stars/weihaox/awesome-neural-rendering?style=social),
 [`image translation`](https://github.com/weihaox/awesome-image-translation)
 ![](https://img.shields.io/github/stars/weihaox/awesome-image-translation?style=social),
 [`clothed people`](https://github.com/weihaox/awesome-clothed-human)
-![](https://img.shields.io/github/stars/weihaox/awesome-clothed-human?style=social).
+![](https://img.shields.io/github/stars/weihaox/awesome-clothed-human?style=social). -->
 
 | Topic         | Title         |
 | :-------------: |:-------------:| 
