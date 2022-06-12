@@ -11,7 +11,7 @@
 
 _**I am currently a postgraduate research student at the Department of Statistical Science, UCL, UK.**_
 
-My main research interests span the fields of **computer vision** and **computer graphic**. I am currently working on controllable, interpretable, and generalizable visual contents creation, especially generating 2D images, videos, or 3D shapes from multi-modal information (*e.g.*, sketches, labels, audio, or textual descriptions). The ultimate vision of my research is to manifest and recreate the world through imagination.
+My main research interests span the fields of **computer vision** and **machine learning**. I am currently working on controllable, interpretable, and generalizable visual contents creation, especially generating 2D images, videos, or 3D shapes from multi-modal information (*e.g.*, sketches, labels, audio, or textual descriptions). The ultimate vision of my research is to manifest and recreate the world through imagination.
 
 ## 🌱 **My Repositories**
 
@@ -36,7 +36,7 @@ There are also some paper collections based on my personal interests:
 | Topic         | Title         |
 | :-------------: |:-------------:| 
 | GAN Inversion | [[`arXiv'22`] High-fidelity GAN Inversion with Padding Space](https://github.com/EzioBy/padinv) | 
-| GAN Inversion | [[`arXiv'21`] GAN Inversion: A Survey](https://github.com/weihaox/awesome-gan-inversion) | 
+| GAN Inversion | [[`TPAMI'22`] GAN Inversion: A Survey](https://github.com/weihaox/awesome-gan-inversion) | 
 | Image Quality Assessment | [[`CVPRW'22`] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ) | 
 | Image Quality Assessment | [[`CVPRW'21`] Region-Adaptive Deformable Network for Image Quality Assessment](https://github.com/IIGROUP/RADN) | 
 | Text-to-image Generation | [[`CVPR'21`] Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN) | 
