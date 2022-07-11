@@ -35,8 +35,9 @@ There are also some paper collections based on my personal interests:
 
 | Topic         | Title         |
 | :-------------: |:-------------:| 
-| GAN Inversion | [[`arXiv'22`] High-fidelity GAN Inversion with Padding Space](https://github.com/EzioBy/padinv) | 
 | GAN Inversion | [[`TPAMI'22`] GAN Inversion: A Survey](https://github.com/weihaox/awesome-gan-inversion) | 
+| GAN Inversion | [[`ECCV'22`] High-fidelity GAN Inversion with Padding Space](https://github.com/EzioBy/padinv) | 
+| GAN Inversion | [[`ICIP'22`] Identity-guided Face Generation with Multi-modal Contour Conditions](https://github.com/IIGROUP/IDE) | 
 | Image Quality Assessment | [[`CVPRW'22`] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ) | 
 | Image Quality Assessment | [[`CVPRW'21`] Region-Adaptive Deformable Network for Image Quality Assessment](https://github.com/IIGROUP/RADN) | 
 | Text-to-image Generation | [[`CVPR'21`] Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN) | 
