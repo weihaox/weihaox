@@ -16,30 +16,28 @@ My main research interests span the fields of **computer vision** and **machine 
 ## 🌱 **My Repositories**
 
 There are also some paper collections based on my personal interests: 
-[`gan inversion`](https://github.com/weihaox/awesome-gan-inversion)
+[gan inversion](https://github.com/weihaox/awesome-gan-inversion)
 ![](https://badgen.net/github/stars/weihaox/awesome-gan-inversion?color=ff595e), 
-[`neural rendering`](https://github.com/weihaox/awesome-neural-rendering)
+[neural rendering](https://github.com/weihaox/awesome-neural-rendering)
 ![](https://badgen.net/github/stars/weihaox/awesome-neural-rendering?color=8ac926), 
-[`image translation`](https://github.com/weihaox/awesome-image-translation) 
+[image translation](https://github.com/weihaox/awesome-image-translation) 
 ![](https://badgen.net/github/stars/weihaox/awesome-image-translation?color=f79256), 
-[`clothed people`](https://github.com/weihaox/awesome-clothed-human)
+[clothed people](https://github.com/weihaox/awesome-clothed-human)
 ![](https://badgen.net/github/stars/weihaox/awesome-clothed-human?color=0496ff).
-<!-- [`gan inversion`](https://github.com/weihaox/awesome-gan-inversion)
+<!-- [gan inversion](https://github.com/weihaox/awesome-gan-inversion)
 ![](https://img.shields.io/github/stars/weihaox/awesome-gan-inversion?style=social),
-[`neural rendering`](https://github.com/weihaox/awesome-neural-rendering)
+[neural rendering](https://github.com/weihaox/awesome-neural-rendering)
 ![](https://img.shields.io/github/stars/weihaox/awesome-neural-rendering?style=social),
-[`image translation`](https://github.com/weihaox/awesome-image-translation)
+[image translation](https://github.com/weihaox/awesome-image-translation)
 ![](https://img.shields.io/github/stars/weihaox/awesome-image-translation?style=social),
-[`clothed people`](https://github.com/weihaox/awesome-clothed-human)
+[clothed people](https://github.com/weihaox/awesome-clothed-human)
 ![](https://img.shields.io/github/stars/weihaox/awesome-clothed-human?style=social). -->
 
-| Topic         | Title         |
-| :-------------: |:-------------:| 
-| GAN Inversion | [[`TPAMI'22`] GAN Inversion: A Survey](https://github.com/weihaox/awesome-gan-inversion) | 
-| GAN Inversion | [[`ECCV'22`] High-fidelity GAN Inversion with Padding Space](https://github.com/EzioBy/padinv) | 
-| GAN Inversion | [[`ICIP'22`] Identity-guided Face Generation with Multi-modal Contour Conditions](https://github.com/IIGROUP/IDE) | 
-| Image Quality Assessment | [[`CVPRW'22`] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ) | 
-| Image Quality Assessment | [[`CVPRW'21`] Region-Adaptive Deformable Network for Image Quality Assessment](https://github.com/IIGROUP/RADN) | 
-| Text-to-image Generation | [[`CVPR'21`] Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN) | 
-| Image Quality Assessment | [[`TCSVT'21`] Domain Fingerprints for No-reference Image Quality Assessment](https://doi.org/10.1109/TCSVT.2020.3002662)| 
-| Gaze Redirection | [[`ACM MM'20`] InterpGaze: Controllable Continuous Gaze Redirection](https://github.com/IIGROUP/InterpGaze) | 
+| Topic         | Title         |    Badge  |
+| :-------------: |:-------------:| :--------------------------:|
+| GAN Inversion | [[TPAMI'22] GAN Inversion: A Survey](https://github.com/weihaox/awesome-gan-inversion) | [![PDF](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2101.05278) [![GitHub Stars](https://img.shields.io/github/stars/weihaox/awesome-gan-inversion?style=social)](https://github.com/weihaox/awesome-gan-inversion)<br> 
+| GAN Inversion | [[ECCV'22] High-fidelity GAN Inversion with Padding Space](https://github.com/EzioBy/padinv) | [![PDF](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.11105) [![GitHub Stars](https://img.shields.io/github/stars/EzioBy/padinv?style=social)](https://github.com/EzioBy/padinv)<br> 
+| Image Quality Assessment | [[CVPRW'22] Attentions Help CNNs See Better: Attention-based Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ) | [![PDF](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2204.10485) [![GitHub Stars](https://img.shields.io/github/stars/IIGROUP/AHIQ?style=social)](https://github.com/IIGROUP/AHIQ)<br> 
+| Image Quality Assessment | [[CVPRW'21] Region-Adaptive Deformable Network for Image Quality Assessment](https://github.com/IIGROUP/RADN) | [![PDF](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs//2104.11599) [![GitHub Stars](https://img.shields.io/github/stars/IIGROUP/RADN?style=social)](https://github.com/IIGROUP/RADN)<br> 
+| Text-to-image Generation | [[CVPR'21] Text-Guided Diverse Face Image Generation and Manipulation](https://github.com/IIGROUP/TediGAN) |[![PDF](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2012.03308) [![GitHub Stars](https://img.shields.io/github/stars/IIGROUP/TediGAN?style=social)](https://github.com/IIGROUP/TediGAN)<br> 
+| Controllable Image Synthesis | [[ACM MM'20] InterpGaze: Controllable Continuous Gaze Redirection](https://github.com/IIGROUP/InterpGaze) | [![PDF](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2010.04513) [![GitHub Stars](https://img.shields.io/github/stars/IIGROUP/InterpGaze?style=social)](https://github.com/IIGROUP/InterpGaze)<br> 
